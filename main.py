@@ -14,8 +14,10 @@ def main():
     updatable_group = pygame.sprite.Group()
     drawable_group = pygame.sprite.Group()
     asteroids_group = pygame.sprite.Group()
+    shot_group = pygame.sprite.Group()
 
     Asteroid.containers = (asteroids_group, updatable_group, drawable_group)
+    Shot.containers = (shot_group, updatable_group, drawable_group)
     AsteroidField.containers = updatable_group
     asteroid_field = AsteroidField()
 
