@@ -41,4 +41,4 @@ Once you have installed the required packages, you can run the game by running t
 python3 main.py
 ```
 
-And you should see the game window pop up.
+And you should see the game window pop up - **The game window will quit automatically as soon as an asteroid collides with the ship.**
