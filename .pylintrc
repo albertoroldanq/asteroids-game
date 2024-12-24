@@ -444,7 +444,8 @@ disable=raw-checker-failed,
         missing-module-docstring,
         missing-class-docstring,
         wildcard-import,
-        useless-parent-delegation
+        useless-parent-delegation,
+        redefined-outer-name
 
 
 # Enable the message, report, category or checker with the given id(s). You can
