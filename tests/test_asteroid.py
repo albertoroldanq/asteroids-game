@@ -5,7 +5,7 @@ from asteroid import Asteroid
 
 
 @pytest.fixture
-def asteroid():
+def asteroid_fixture():
     return Asteroid(0, 0, 10)
 
 
