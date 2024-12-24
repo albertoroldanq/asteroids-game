@@ -1,4 +1,4 @@
-# Monitor metrics of Laravel disk
+# Monitor metrics of Asteroids game
 
 [![GitHub Tests Action Status](https://img.shields.io/github/actions/workflow/status/albertoroldanq/asteroids-game/run-tests.yaml?branch=main&label=tests&style=flat-square)](https://github.com/albertoroldanq/asteroids-game/actions?query=workflow%3Arun-tests+branch%3Amain)
 [![GitHub Pylint Action Status](https://img.shields.io/github/actions/workflow/status/albertoroldanq/asteroids-game/pylint.yaml?branch=main&label=code%20style&style=flat-square)](https://github.com/albertoroldanq/asteroids-game/actions?query=workflow%3A"pylint"+branch%3Amain)
