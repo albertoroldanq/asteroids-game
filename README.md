@@ -8,7 +8,7 @@
 Game project to practise Python with OOP
 
 
-If you're not sure if you have python3 installed, follow first steps of this [README.md](https://github.com/albertoroldanq/bookbot) 
+If you're not sure whether you have python3 installed, follow first steps of this [README.md](https://github.com/albertoroldanq/bookbot) 
 
 Once you've confirmed python is installed, you can clone this repository and follow the instructions below.  
 
